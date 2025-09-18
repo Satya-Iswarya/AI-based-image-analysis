@@ -1,0 +1,4 @@
+Timestamp: 2025-09-16 20:27:06.290235
+Smile: smiling (0.66)
+Age: 29 (0.00)
+Emotion: fear
